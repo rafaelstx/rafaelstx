@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my repository!👋
 
-<!--
-**rafaelstx/rafaelstx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rafaelstx&show_icons=true&theme=noctis_minimus)
 
-Here are some ideas to get you started:
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelstx&theme=noctis_minimus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/rafaelstx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafaelsteixeira03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">    </a>
+</div>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=rafaelstx)
+
