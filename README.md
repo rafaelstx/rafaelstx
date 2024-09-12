@@ -1,6 +1,5 @@
 ### Welcome to my repository!👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rafaelstx&show_icons=true&theme=noctis_minimus)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelstx&theme=noctis_minimus)
 
